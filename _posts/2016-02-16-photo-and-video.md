@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'Professions in Events, Real Estate, Wedding and Commercial photos and video production'
-datePublished: '2016-02-16T07:56:03.406Z'
-dateModified: '2016-02-16T07:55:46.221Z'
+datePublished: '2016-02-16T08:56:34.372Z'
+dateModified: '2016-02-16T08:56:27.263Z'
 title: 'Photo & Video'
 author: []
 sourcePath: _posts/2016-02-16-photo-and-video.md
