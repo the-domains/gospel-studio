@@ -1,0 +1,28 @@
+name: Gospel Studio
+favicon: null
+layout_spectrum: 0.22585499100387096
+typography_spectrum: 0.09799882560037076
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.669763992773369
+  lightness: 0.44267479120753706
+  saturation: 0.14553059567697346
+  rhythmicContrast: 0.2665125448256731
+purpose: []
