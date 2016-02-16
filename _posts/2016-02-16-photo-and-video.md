@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Professions in Events, Real Estate, Wedding and Commercial photos and video production'
-datePublished: '2016-02-16T07:51:53.147Z'
-dateModified: '2016-02-16T07:48:12.645Z'
+datePublished: '2016-02-16T07:56:03.406Z'
+dateModified: '2016-02-16T07:55:46.221Z'
 title: 'Photo & Video'
 author: []
 sourcePath: _posts/2016-02-16-photo-and-video.md
